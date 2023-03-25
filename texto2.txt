@@ -1,3 +1,6 @@
 Hola soy el texto2
 
 Añadiendo una nueva linea para editar el archivo. 
+
+
+Esta linea se esta añadiendo desde la rama2. 
